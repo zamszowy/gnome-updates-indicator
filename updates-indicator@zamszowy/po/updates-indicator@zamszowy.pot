@@ -1,0 +1,262 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-10 11:25+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: error-window.js:14
+msgid "Update check error"
+msgstr ""
+
+#: error-window.js:40
+msgid "Error log file not found."
+msgstr ""
+
+#: error-window.js:42
+msgid "Close"
+msgstr ""
+
+#: extension.js:56
+msgid "Updates Indicator"
+msgstr ""
+
+#: extension.js:353
+msgid "View error details"
+msgstr ""
+
+#: extension.js:361
+msgid "Check for new updates"
+msgstr ""
+
+#: extension.js:368
+#, javascript-format
+msgid "View %d update"
+msgid_plural "View %d updates"
+msgstr[0] ""
+msgstr[1] ""
+
+#: extension.js:369
+msgid "No updates to view"
+msgstr ""
+
+#: extension.js:379
+#, javascript-format
+msgid "Upgrade %d package"
+msgid_plural "Upgrade %d packages"
+msgstr[0] ""
+msgstr[1] ""
+
+#: extension.js:380
+msgid "No packages to upgrade"
+msgstr ""
+
+#: extension.js:454
+msgid "Error checking for updates"
+msgstr ""
+
+#: extension.js:456
+msgid "No updates available"
+msgstr ""
+
+#: extension.js:458
+#, javascript-format
+msgid "%d updates available"
+msgid_plural "%d updates available"
+msgstr[0] ""
+msgstr[1] ""
+
+#: info-window.js:50 info-window.js:69
+msgid "No details available."
+msgstr ""
+
+#: info-window.js:52 info-window.js:71
+msgid ""
+"Error:\n"
+"{0}"
+msgstr ""
+
+#: info-window.js:56 info-window.js:75
+msgid ""
+"Failed to run command:\n"
+"{0}"
+msgstr ""
+
+#: info-window.js:89
+msgid "Loading update details…"
+msgstr ""
+
+#: info-window.js:144
+msgid "Updates"
+msgstr ""
+
+#: info-window.js:149
+msgid "Search updates…"
+msgstr ""
+
+#: info-window.js:190
+msgid "update"
+msgid_plural "updates"
+msgstr[0] ""
+msgstr[1] ""
+
+#: info-window.js:218
+msgid "Failed to read updates file."
+msgstr ""
+
+#: prefs.js:58
+msgid "Behaviour"
+msgstr ""
+
+#: prefs.js:64
+msgid "Polling"
+msgstr ""
+
+#: prefs.js:67
+msgid "Refresh interval"
+msgstr ""
+
+#: prefs.js:67
+msgid "Minutes between automatic update checks"
+msgstr ""
+
+#: prefs.js:70
+msgid "Include firmware updates"
+msgstr ""
+
+#: prefs.js:71
+msgid "Requires fwupdmgr and jq"
+msgstr ""
+
+#: prefs.js:75
+msgid "Click behaviour"
+msgstr ""
+
+#: prefs.js:78
+msgid "Open window on left-click"
+msgstr ""
+
+#: prefs.js:79
+msgid "Show update list instead of popup menu"
+msgstr ""
+
+#: prefs.js:83
+msgid "Refresh on click when no updates"
+msgstr ""
+
+#: prefs.js:84
+msgid "Only applies when \"Open window on left-click\" is enabled"
+msgstr ""
+
+#: prefs.js:89
+msgid "Menu entries"
+msgstr ""
+
+#: prefs.js:92
+msgid "Show \"Check for new updates\""
+msgstr ""
+
+#: prefs.js:94
+msgid "Show \"Upgrade packages\""
+msgstr ""
+
+#: prefs.js:95
+msgid "Upgrade command"
+msgstr ""
+
+#: prefs.js:102
+msgid "Appearance"
+msgstr ""
+
+#: prefs.js:108
+msgid "Indicator"
+msgstr ""
+
+#: prefs.js:111
+msgid "Hide when no updates"
+msgstr ""
+
+#: prefs.js:113
+msgid "Icon style"
+msgstr ""
+
+#: prefs.js:114
+msgid "Dark"
+msgstr ""
+
+#: prefs.js:114
+msgid "Light"
+msgstr ""
+
+#: prefs.js:114
+msgid "Symbolic"
+msgstr ""
+
+#: prefs.js:118
+msgid "Icon levels"
+msgstr ""
+
+#: prefs.js:119
+msgid "Show different icons depending on how many updates are pending"
+msgstr ""
+
+#: prefs.js:123
+msgid "Enable level icons"
+msgstr ""
+
+#: prefs.js:126
+msgid "Low → Medium threshold"
+msgstr ""
+
+#: prefs.js:127
+msgid "Below this count the \"low\" icon is shown"
+msgstr ""
+
+#: prefs.js:132
+msgid "Medium → High threshold"
+msgstr ""
+
+#: prefs.js:133
+msgid "Below this count the \"medium\" icon is shown; \"high\" above"
+msgstr ""
+
+#: prefs.js:139
+msgid "Update-count label"
+msgstr ""
+
+#: prefs.js:141
+msgid "Show label"
+msgstr ""
+
+#: prefs.js:144
+msgid "Font size (%)"
+msgstr ""
+
+#: prefs.js:148
+msgid "Font weight"
+msgstr ""
+
+#: prefs.js:148
+msgid "CSS font-weight, e.g. 300 = light, 700 = bold"
+msgstr ""
+
+#: prefs.js:153
+msgid "Vertical offset (px)"
+msgstr ""
+
+#: prefs.js:154
+msgid "Positive = shift down, negative = shift up"
+msgstr ""

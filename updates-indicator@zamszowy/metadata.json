@@ -1,0 +1,9 @@
+{
+    "uuid": "updates-indicator@zamszowy",
+    "name": "Updates Indicator",
+    "description": "Panel indicator backed by PackageKit D-Bus with optional fwupd support",
+    "shell-version": ["45", "46", "47", "48", "49", "50"],
+    "url": "https://github.com/zamszowy/gnome-updates-indicator",
+    "settings-schema": "org.gnome.shell.extensions.updates-indicator",
+    "gettext-domain": "updates-indicator@zamszowy"
+}
